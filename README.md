@@ -19,15 +19,21 @@ This project analyzes social media engagement data using Python to uncover patte
 
 Includes:
 
-User details (age, gender, country)
-Post information (type, category, hashtags)
-Engagement metrics (likes, comments, shares, impressions)
-Sentiment & device type
+* User details (age, gender, country)
+
+* Post information (type, category, hashtags)
+
+* Engagement metrics (likes, comments, shares, impressions)
+
+* Sentiment & device type
 
 📈 Key Insights
-Content type and timing strongly impact engagement
-Verified accounts and younger users show higher interaction
-Peak posting time increases visibility and performance
+
+* Content type and timing strongly impact engagement
+
+* Verified accounts and younger users show higher interaction
+
+* Peak posting time increases visibility and performance
 
 ✅ Conclusion
 
